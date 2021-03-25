@@ -2,16 +2,16 @@
 
 ### Part I: Analytical Option Formula
 
-1. Derived SDE of Black-Scholes Model and priced variable options (e.g. Vanilla Call)
+1. Derived SDE of Black-Scholes Model and price variable options (e.g. Vanilla Call)
 (Assuming the underlying stock is valued at a risk neutral probability with a risk-free bond used as the numeraire 
 security)
  
-2. Derived SDE of  Bachelier Model and priced variable options (e.g. Vanilla Call)
+2. Derived SDE of Bachelier Model and price variable options (e.g. Vanilla Call)
 (Assuming risk-free interest rate, r, = 0) 
 
-3. Derived SDE of  Black76 Model and priced variable options (e.g. Vanilla Call) 
+3. Derived SDE of Black76 Model and price variable options (e.g. Vanilla Call) 
 
-4. Derived SDE of Displaced-Diffusion  Model and priced variable options (e.g. Vanilla Call) 
+4. Derived SDE of Displaced-Diffusion Model and price variable options (e.g. Vanilla Call) 
 
 ### Part II: Model Calibration
 Calibration of displaced diffusion model and SBAR model to match market implied volatility derived from Black-76 
